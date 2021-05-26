@@ -1,0 +1,8 @@
+com\cpag\msc\myshoppingcart\web\ProductRestController.class
+com\cpag\msc\myshoppingcart\bean\Product.class
+com\cpag\msc\myshoppingcart\service\ProductService.class
+com\cpag\msc\myshoppingcart\service\ProductServiceImpl.class
+com\cpag\msc\myshoppingcart\MyShoppingCartApplication.class
+com\cpag\msc\myshoppingcart\dao\CustomProductRepositoryImpl.class
+com\cpag\msc\myshoppingcart\dao\CustomProductRepository.class
+com\cpag\msc\myshoppingcart\dao\ProductRepository.class
